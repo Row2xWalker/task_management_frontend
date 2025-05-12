@@ -83,7 +83,7 @@ export default function LoginPage() {
                             Sign In
                         </Button>
                         <div className="text-center">
-                            <p className="text-sm text-gray-600">Don't have an account?</p>
+                            <p className="text-sm text-gray-600">Don&apos;t have an account?</p>
                             <Button
                                 type="button"
                                 variant="outline"

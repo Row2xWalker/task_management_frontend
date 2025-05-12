@@ -21,7 +21,7 @@ const useTasks = (user) => {
         } finally {
             setLoading(false)
         }
-    }, [user?._id]);
+    }, [user]);
 
     
     useEffect(() => {
