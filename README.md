@@ -19,5 +19,5 @@ This is the frontend of a Task Management application built with **Next.js**, st
 - **Framework**: [Next.js](https://nextjs.org/)
 - **Styling**: [TailwindCSS](https://tailwindcss.com/)
 - **UI Components**: [shadcn/ui](https://ui.shadcn.com/)
-- **State Management**: React Hooks (and optionally context or any library if used)
-- **API Integration**: REST API calls to backend
+- **State Management**
+- **API Integration**
